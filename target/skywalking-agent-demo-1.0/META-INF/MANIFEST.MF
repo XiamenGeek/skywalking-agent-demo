@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Premain-Class: org.mydemo.SkywalkingAgent
+Archiver-Version: Plexus Archiver
+Built-By: integ
+Class-Path: javassist-3.15.0-GA.jar
+Created-By: Apache Maven 3.6.1
+Build-Jdk: 1.8.0_211
+
